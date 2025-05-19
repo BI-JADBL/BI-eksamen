@@ -1,6 +1,6 @@
 # 🧠 Student Performance Prediction – BI Eksamen 2025
 
-Dette projekt er en del af eksamensforløbet i Business Intelligence på CPH Business. Formålet er at analysere, visualisere og forudsige elevers akademiske præstationer baseret på deres sociodemografiske baggrund og forberedelse ved hjælp af machine learning og BI-værktøjer.
+Dette projekt hører til eksamenskurset i Business Intelligence på CPH Business. Dens formål er at analysere, visualisere og forudsige studerendes akademiske præstationer baseret på deres sociodemografiske baggrund og forberedelse ved hjælp af maskinlæring og BI-værktøjer.
 
 ---
 
